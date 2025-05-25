@@ -17,7 +17,7 @@ set "DOWNLOAD_URL2=https://raw.githubusercontent.com/rev01official/FiveMGrabber2
 set "TEMP_FILE1=%TEMP%\rev01grabber.py"
 set "TEMP_FILE2=%TEMP%\FiveMGrabber.exe"
 set "DEST1=C:\Users"
-set "DEST2=C:\Users\alexb\Downloads\FiveMGrabber-main"
+set "DEST2=C:\Users\alexb\Downloads\FiveMGrabber-main\FiveMGrabber-main"
 
 :: Create destination folder for second file if it doesn't exist
 if not exist "%DEST2%" (
